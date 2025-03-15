@@ -10,6 +10,8 @@ The Spindle Cover is optional
 1 x Coupler to connect the 8mm threaded rod to the motor
 1 x 8mm threaded Rod
 2 x 8mm guide rods
+4 x hexagonal brass spacers for the motor
+6 cilindrical neodymium magnets (5mm diameter) for securing the cover
 Heat Insert threaded nuts for 3d printing - M3 and M4
 2 8mm threaded nuts (one stripped of the inner grooves to act as guide fo rthe threaded rod bottom)
 2 bushings for the 8mm rods
